@@ -60,11 +60,11 @@ you probably won't need to do this.
 	--parallax-scroll-y: 0;
 	--parallax-coverage-x: 1;
 	--parallax-coverage-y: 1;
+	--parallax-cubic-x: 0;
+	--parallax-cubic-y: 0;
 	--parallax-visible: 1;
 	--parallax-half-visible: 1;
 	--parallax-quarter-visible: 1;
-	--parallax-cubic-x: 1;
-	--parallax-cubic-y: 1;
 }
 ```
 
