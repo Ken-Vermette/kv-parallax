@@ -27,7 +27,7 @@ use.
 #### 2. Using the non-initializing version
 If you do need to modify the options before parameters are written to the DOM 
 then this is the reccomended version to use. Use this version if...
- * You have CSS variables starting with ""--parallax" 
+ * You have CSS variables starting with `--parallax` 
  * You need to change the CSS class.
  * You want more than 3 decimals of accuracy.
 
